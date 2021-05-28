@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  background-color: #1f2c2a;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+#colorgray {
+  background-color: #525252;
+  min-height:10vh;
+  min-width: 100vw;
+}
+
+#colorblue {
+  background-color: #3248a7;
+  min-height:80vh;
+  min-width: 10vw;
+}
+
+#lightGB {
+  background-color: #4c61be;
+  min-height:80vh;
+  min-width: 90vw;
+}
+
+
+
